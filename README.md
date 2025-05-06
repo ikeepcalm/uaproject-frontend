@@ -1,11 +1,9 @@
 <div class="prose prose-sm md:prose-base lg:prose-lg max-w-none prose-headings:font-bold prose-a:text-blue-600"
      style="user-select: none;">
     <div id="top" class="">
-
         <div align="center" class="text-center">
             <h1>UAPROJECT-FRONTEND</h1>
             <p><em>Empowering your Minecraft journey with seamless experiences.</em></p>
-
             <img alt="last-commit"
                  src="https://img.shields.io/github/last-commit/ikeepcalm/uaproject-frontend?style=flat&amp;logo=git&amp;logoColor=white&amp;color=0080ff"
                  class="inline-block mx-1" style="margin: 0px 2px;">
